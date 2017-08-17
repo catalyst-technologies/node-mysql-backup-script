@@ -1,0 +1,15 @@
+{
+  "name": "mysql-back-njs",
+  "version": "1.0.0",
+  "description": "This is a script for database backup, it recieves an array from config.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Heramis",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1",
+    "mysqldump": "^1.4.2"
+  }
+}
