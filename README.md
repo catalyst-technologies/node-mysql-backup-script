@@ -46,6 +46,6 @@ module.exports.backup_dir = './backups/';
 ```
 or
 ```javascript
-module.exports.backup_dir = './/my-database-backups';
+module.exports.backup_dir = './my-database-backups';
 ```
 This will be set within the script folder only.
